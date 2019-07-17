@@ -10,8 +10,9 @@ For the best online rendering of the Python notebooks, please use <a href="https
 Contributors:
 - Eddwi Hesky Hasdeo, <a href="mailto:heskyzone@gmail.com">heskyzone [at] gmail [dot] com</a>
 - Lukas Primahatva Adhitya Krisna, <a href="mailto:lukasprimahatva@live.com">lukasprimahatva [at] live [dot] com</a>
+- Muhammad Yusrul Hanna <a href="mailto:muh.yusrul.h@gmail.com">muh.yusrul.h [at] gmail [dot] com</a>
 - Bobby Eka Gunara, <a href="mailto:bobgunara@gmail.com">bobgunara [at] gmail [dot] com</a>
 - Nguyen Tuan Hung, <a href="mailto:hung@live.jp">hung [at] live [dot] jp</a>
 - Ahmad Ridwan Tresna Nugraha, <a href="mailto:art.nugraha@gmail.com">art.nugraha [at] gmail [dot] com</a>
 
-E.H.H. initiated the project with A.R.T.N. and laid out the guideline for the calculations. L.P.A.K. and A.R.T.N. then wrote the Jupyter notebooks and coded numerically in Python based on  E.H.H.'s notes.  After the calculations were completed, B.E.G. and N.T.H. re-checked and confirmed the calculations.  All authors discussed the results and contributed to the writing of the paper.
+E.H.H. initiated the project with A.R.T.N. and laid out the guideline for the calculations. L.P.A.K. and A.R.T.N. then wrote the Jupyter notebooks and coded numerically in Python based on  E.H.H.'s analytical calculations. M.H.Y. contributed to the first-principles calculations to be compared with the main results. B.E.G. and N.T.H. re-checked and confirmed the analytical calculations.  All authors discussed the results and contributed to the writing of the paper.
